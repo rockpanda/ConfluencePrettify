@@ -10,10 +10,8 @@
 更改域名并保存生效（ctrl+s）<br/>
 
 ## 截图
-可以看到目录已经不再，右上角多了一个小图标<br/>
+#### 可以看到目录已经不再，右上角多了一个小图标s
 ![Image text](https://raw.githubusercontent.com/rockpanda/image/master/sample/wiki01.png)
 
-鼠标移动上去后，显示了整个目录树<br/>
+#### 鼠标移动上去后，显示了整个目录树
 ![Image text](https://raw.githubusercontent.com/rockpanda/image/master/sample/wiki02.png)
-
-
